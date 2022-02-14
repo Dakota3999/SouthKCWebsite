@@ -1,0 +1,37 @@
+p {
+    font-size: medium;
+    margin:  0 40;
+}
+h1 {
+    margin: 30 30;
+}
+h2{
+    margin: 30 30;
+}
+h3 {
+    margin: 30 30;
+}
+h4 {
+    font-weight: bold;
+    margin: 30 30;
+
+}
+
+
+
+
+h1.title {
+    color:navy;
+    font-weight: bold;
+    margin: 30 30 0;    
+}
+h4.subtitle {   
+    margin: 0 30;
+}
+.bac {
+    color: navy;
+}
+.que {
+    color: navy;
+    margin: 2 30;
+}
