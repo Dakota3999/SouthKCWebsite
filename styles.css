@@ -33,5 +33,36 @@ h4.subtitle {
 }
 .que {
     color: navy;
-    margin: 2 30;
+    margin: 30 30;
+}
+.no {
+    margin: 0 30;
+}
+.bacno {
+    margin: 30 30 0;
+    color: navy;
+}
+.und {
+    text-decoration: underline;
+}
+.app {
+    margin: 30 30 30;
+    font-size: xxx-large;
+}
+.date{
+    font: bold;
+    margin: 50 200 0;
+}
+.che{
+    margin: 100 30 0;
+}
+.box{
+    font: bold;
+    margin: 30 30 0;
+}
+.all{
+    margin: 30 30 0;
+}
+.con{
+    margin: 0 30;
 }
